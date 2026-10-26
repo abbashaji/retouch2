@@ -1,0 +1,9 @@
+{
+  "note": "Stone centres in crop_orig.png coordinates (crop box in photo.jpg: x 1700-2600, y 2680-3080). Add (1700, 2680) to get coordinates in the full 4096x4096 photo. Usable as point prompts for SAM 2.",
+  "crop_origin_in_photo": [1700, 2680],
+  "centres_crop_px": [
+    [171, 140], [200, 176], [238, 206], [274, 238], [315, 261],
+    [358, 286], [406, 297], [455, 306], [503, 295], [552, 286],
+    [595, 262], [634, 243], [666, 211], [697, 188], [726, 148]
+  ]
+}
